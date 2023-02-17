@@ -1,7 +1,3 @@
 <?php
-
-  $link = $_GET['link'];
-
-  header( 'Location: '.$link );
-
+header("Location: http://www.daum.net'");
 ?>
